@@ -25,3 +25,59 @@ I'm **Supriya Turpati**, a curious and driven student who loves turning lines of
 
 ---
 
+## 🛠️ Tech Stack
+
+**Programming**
+<img src="https://skillicons.dev/icons?i=c,java" />
+
+**Web Technologies**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+
+**Data & Analytics**
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+**Core Concepts**
+<img src="https://img.shields.io/badge/Data_Structures-8E2DE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/OOP-4A00E0?style=for-the-badge"/> <img src="https://img.shields.io/badge/SDLC-8E2DE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQL_Basics-4A00E0?style=for-the-badge"/>
+
+**Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+**AI Tools & Technologies**
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Antigravity-1a1a1a?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI_Powered_R%26D-6A0DAD?style=for-the-badge"/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SupriyaTurpati&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SupriyaTurpati&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupriyaTurpati&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=ffffff" width="48%"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/supriya-turpati-89a0a9365" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://supriya-turpati-portfolio.lovable.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
+
+<i>Thanks for stopping by! ✨ Let's build something great together.</i>
+
+</div>
